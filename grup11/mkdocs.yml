@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: Institut Pedralbes
 nav:
-  - 'eric.md'
-  - 'jaume.md'
+  - M08: 'm08.md'
+  - M09: 'm09.md'
+  - M12: 'm12.md'
